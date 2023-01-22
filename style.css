@@ -1,0 +1,94 @@
+.container {
+    text-align: center;
+    margin-top: 19px
+}
+
+table {
+    margin: 10px auto;
+}
+
+.calculator {
+    width: 56%;
+}
+
+input {
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 50px;
+    height: 80px;
+    width: 94%;
+    background-color: #e5f9f5;
+}
+
+input::selection {
+    background-color: #0dca52;
+}
+
+
+button {
+    font-size: 45px;
+    background: #e9e8eb;
+    width: 117px;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1s;
+    text-shadow: 1px 1px 15px #605959;
+    border-radius: 4px;
+}
+
+button:hover {
+    /* text-shadow: none; */
+    font-size: 50px;
+    padding: 16px;
+    background-color: #dbdadd;
+}
+
+button:active {
+    font-size: 47px;
+    background-color: #c7c6cb;
+}
+
+button::selection {
+    background-color: #0dca52;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1::selection {
+    background-color: #0dca52;
+}
+:disabled:hover{
+    font-size: 45px;
+    padding: 20px;
+    background: #e9e8eb;
+
+}
+.equal{
+    background: #92f162;
+    padding: 68px 20px;
+}
+.equal:hover{
+    background: #7ae544;
+    padding: 64px 20px;
+}
+.equal:active{
+    background: #5bc626;
+
+}
+.num{
+    background:#dee7d6;
+}
+.empty{
+    padding: 45px 20px;
+    cursor:default;
+}
+.empty:hover{
+    padding: 45px 20px;
+}
+.bgGreen{
+    background-color:#92f162;
+}
