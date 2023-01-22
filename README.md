@@ -18,4 +18,4 @@ Your contributions are always welcome and appreciated. Following are the things 
 1. #### Report a bug
    If you think you have encountered a bug, and I should know about it, feel free to report it [here](https://github.com/ArvindSaini978/Mint-Calculator/issues) and I will take care of it.
 2. #### Create a pull request
-   It can get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/ArvindSaini978/Mint-Calculator) and make a pull request.
+   It can get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/ArvindSaini978/Mint-Calculator/issues) and make a pull request.
