@@ -6,7 +6,7 @@
 * [Setup](#setup)
 * [Contribution](#contribution)
 ## General Info
-Mint Calculator is an web based advanced calculator. This is not fully advanced; it has much more features than a standard calculator and less features than a Scientific Calculator.
+Mint Calculator is a web based advanced calculator. This is not fully advanced; it has much more features than a standard calculator and less features than a Scientific Calculator.
 ## Technologies 
 * HTML
 * CSS
