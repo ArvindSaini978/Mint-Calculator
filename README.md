@@ -1,4 +1,4 @@
-# temperatureConverter
+# Mint Calculator
 #### Advanced Calclulator made with pure HTML, CSS and JavaScript.
 ## Table of contents
 * [General info](#general-info)
@@ -6,7 +6,7 @@
 * [Setup](#setup)
 * [Contribution](#contribution)
 ## General Info
-This Mint Calculator is an advanced calculator. This is not fully advanced; it has much more features than a standard calculator and less features than a Scientific Calculator.
+Mint Calculator is an web based advanced calculator. This is not fully advanced; it has much more features than a standard calculator and less features than a Scientific Calculator.
 ## Technologies 
 * HTML
 * CSS
