@@ -12,7 +12,7 @@ Mint Calculator is a web based advanced calculator. This is not fully advanced; 
 * CSS
 * JavaScript
 ## Setup
-Just open index.html file in your browser to launch the app.
+Just open ``` index.html ``` file in your browser to launch the app.
 ## Contribution
 Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
 1. #### Report a bug
